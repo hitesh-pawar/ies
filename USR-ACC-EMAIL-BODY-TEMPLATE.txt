@@ -1,0 +1,13 @@
+Hi,
+<br/>
+Welcome to ISE, Your registration is almost completed.
+To login your account please use below details .<br/>
+<br/>
+User-Name : {USR-NAME}<br/>
+User-Password : {USR-PWD}<br/>
+<br/>
+<a href='http://localhost:9090/ies/login'>
+Click Here To Login</a> <br/>
+<br/>
+Thanks & Regards,<br/>
+Ashok IT.<br/>
